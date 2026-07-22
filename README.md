@@ -1,6 +1,6 @@
-# GTM Audit Analyzer
+# Website Audit Analyzer
 
-Herramienta de auditoría para Google Tag Manager que combina crawleo estático de sitios web con captura de eventos en vivo mediante un snippet de consola.
+Herramienta de auditoría para sitios web que combina crawleo estático con captura de eventos en vivo mediante un snippet de consola.
 
 ## Estructura
 
