@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.xlsx
+*.json
+!snippet/gtm_audit_snippet.js
+.DS_Store
+Thumbs.db
